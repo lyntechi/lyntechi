@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi, I'm Lynda! I'm a software engineer who is passionate about making open-source more accessible, creating technology to make people happy and I also enjoy teaching web development to others looking to learn.
 
 - 🔭 I’m currently working on ...  Front-End Development
 - 🌱 I’m currently learning ...Drupal
