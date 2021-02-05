@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi, I'm Lynda! I'm a software engineer who is passionate about making open-source more accessible, creating technology to make people happy and I also enjoy teaching web development to others looking to learn.
-
+ 
 - 🔭 I’m currently working on ...  Front-End Development
 - 🌱 I’m currently learning ...Drupal
 - 👯 I’m looking to collaborate on ...Drupal with React
@@ -11,3 +11,4 @@ Hi, I'm Lynda! I'm a software engineer who is passionate about making open-sourc
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I recently discovered that I enjoy teaching web development
 
+Read one of my blogs https://lyndasantiago.medium.com/
