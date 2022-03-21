@@ -2,7 +2,7 @@
 
 Hi, I'm Lynda! I'm a software engineer who is passionate about making open-source more accessible, creating technology to make people happy and I also enjoy teaching web development to others looking to learn.
  
-- 🔭 I’m currently working on ...  Drupal Front-End Development
+- 🔭 I’m constantly working on ...  Drupal Front-End Development and React.js Projects
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...lyndasantiag@gmail.com
 
